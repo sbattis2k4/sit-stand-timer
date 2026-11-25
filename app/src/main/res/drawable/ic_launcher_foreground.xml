@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Standing person (restroom-style pictogram) -->
+    <path
+        android:fillColor="#E6D7BE"
+        android:pathData="M35,35.2a3.8,3.8 0 1,0 0,7.6a3.8,3.8 0 1,0 0,-7.6z" />
+    <path
+        android:fillColor="#E6D7BE"
+        android:pathData="M31.2,44.5C29.4,44.5 28.2,45.7 28.2,47.5L28.2,57C28.2,58 29,58.6 29.8,58.6C30.6,58.6 31.3,58 31.3,57L31.3,49L31.8,49L31.8,71.5C31.8,72.4 32.5,73.1 33.4,73.1C34.3,73.1 34.8,72.4 34.8,71.5L34.8,59.5L35.2,59.5L35.2,71.5C35.2,72.4 35.7,73.1 36.6,73.1C37.5,73.1 38.2,72.4 38.2,71.5L38.2,49L38.7,49L38.7,57C38.7,58 39.4,58.6 40.2,58.6C41,58.6 41.8,58 41.8,57L41.8,47.5C41.8,45.7 40.6,44.5 38.8,44.5Z" />
+
+    <!-- Diagonal slash -->
+    <path
+        android:pathData="M58.5,36.5L48.5,71.5"
+        android:strokeWidth="3.5"
+        android:strokeColor="#E6D7BE"
+        android:strokeLineCap="round" />
+
+    <!-- Side-profile chair -->
+    <path
+        android:pathData="M64.5,40.5L64.5,71.5M64.5,58L78.5,58M77.5,58L77.5,71.5"
+        android:strokeWidth="3.2"
+        android:strokeColor="#E6D7BE"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M64.5,65L77.5,65"
+        android:strokeWidth="2.2"
+        android:strokeColor="#E6D7BE"
+        android:strokeLineCap="round" />
+
+</vector>
