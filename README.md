@@ -34,3 +34,7 @@ Download `sit-stand-timer.apk` from the [Releases](https://github.com/sbattis2k4
    ```bash
    ./gradlew assembleRelease
    ```
+
+## License
+
+Licensed under the [Apache License 2.0](LICENSE).
